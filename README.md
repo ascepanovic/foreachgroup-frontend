@@ -1,7 +1,7 @@
 ## ABOUT
 
 This is a current landing page for - foreachgroup.com
-Made with VUE3
+Made with VUE JS
 
 ## Project setup
 
