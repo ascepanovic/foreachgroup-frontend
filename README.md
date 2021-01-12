@@ -12,7 +12,7 @@ npm install
 ## Installation
 
 ```
-there isnt anything to install
+there isn't anything to install
 ```
 
 ## Initial Configuration
