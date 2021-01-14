@@ -30,7 +30,7 @@ export default {
         'Maybe you are an engineer ?',
         'Or you need someone to help you...',
         'With design, performance, architecture ',
-        'Or you need to brainstorm idea a bit ?',
+        'Or you need someone to brainstorm idea a bit ?',
         'This basic animation is here to...',
         'Tell you that we would love to hear ',
         "What's on your mind !!!",
@@ -56,9 +56,11 @@ export default {
   }
 
   .disclaimer{
-    font-size: 1.6rem;
+    padding-top: 1rem;
+    font-size: 1.4rem;
     color: white;
     padding-left: 1rem;
+    position: fixed;
   }
 
   .mylogo {
